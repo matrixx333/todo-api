@@ -485,5 +485,5 @@ $RECYCLE.BIN/
 
 # ignore *.db files 
 *.db
-src/Todos.db-wal
-src/Todos.db-shm
+api/Todos.db-wal
+api/Todos.db-shm
