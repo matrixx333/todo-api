@@ -14,6 +14,15 @@ I chose to implement my solution as an ASP.NET Core Web API solution. The main e
     - SQLite implementation
 - Implement all CRUD actions
 
+## Bonus Points
+
+- Utilize your favorite dependency injection framework
+    - ASP.NET Core 
+- Utilize an ORM of your choice
+    - Entity Framework
+- Use the repository pattern
+    - IRepository.cs
+
 ## Getting Started
 
 To get started with the project, follow these steps:
