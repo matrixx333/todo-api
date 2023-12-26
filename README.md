@@ -1,3 +1,5 @@
+![example workflow](https://github.com/matrixx333/todo-api/actions/workflows/dotnet.yml/badge.svg)
+
 # Project Summary
 
 Hi Tonic Team! 
